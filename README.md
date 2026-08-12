@@ -13,7 +13,6 @@ This project delivers a comprehensive exploratory data analysis of supermarket b
 - [Executive Summary](#-executive-summary)
 - [Recommendations](#-recommendations)
 - [Limitations](#-limitations)
-- [Repository Structure](#-repository-structure)
 
 ---
 
@@ -69,11 +68,3 @@ The supermarket chain demonstrates stable, balanced revenue distribution across 
 * **External Factors:** Macroeconomic indicators such as local competitor pricing, regional marketing campaigns, and holiday impacts were not captured in the transactional logs.
 
 ---
-
-## 📁 Repository Structure
-```text
-├── data/
-│   └── supermarket_sales.xlsx             # Raw dataset used for analysis
-├── dashboards/
-│   └── Basic Dashboard_Anston.xlsx        # Completed Excel workbook with pivot tables and dashboard
-└── README.md                              # Project documentation and summary
